@@ -5,7 +5,7 @@ const noteSchema = new mongoose.Schema({
     type: String,
   },
   folderId: {
-    type: String,
+    type: int,
     required: true
   }
 }, { timestamps: true });
