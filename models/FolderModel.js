@@ -6,7 +6,7 @@ const folderSchema = new mongoose.Schema({
     required: true
   },
   authorId: {
-    type: String,
+    type: Int,
     required: true
   }
 }, { timestamps: true });
