@@ -1,12 +1,12 @@
 export default {
   authors: [
     {
-      id: 123,
-      name: 'HoleTex'
+      id: 102,
+      name: 'daotq21it'
     },
     {
       id: 999,
-      name: 'Tung Nguyen'
+      name: 'Dao Truong Quang'
     }
   ],
   folders: [

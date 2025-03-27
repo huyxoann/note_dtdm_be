@@ -1,13 +1,13 @@
 import { initializeApp } from "firebase-admin/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDSfxUao1BwpmVpPvu7f4LpQJhLvrxIzcU",
-  authDomain: "note-app-holetex.firebaseapp.com",
-  projectId: "note-app-holetex",
-  storageBucket: "note-app-holetex.appspot.com",
-  messagingSenderId: "607239612804",
-  appId: "1:607239612804:web:5d0bedba10ffc2a84bd5d1",
-  measurementId: "G-DLSHCKNQ65"
+  apiKey: "AIzaSyDpwSNgj-FF3k5bPrgIER9X5ERmvPM74u0",
+  authDomain: "note-app-e1c8b.firebaseapp.com",
+  projectId: "note-app-e1c8b",
+  storageBucket: "note-app-e1c8b.firebasestorage.app",
+  messagingSenderId: "72348407069",
+  appId: "1:72348407069:web:5853eade2e7bdaf0f67df4",
+  measurementId: "G-6K4FCHZYXY"
 };
 
 initializeApp(firebaseConfig);
